@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "C292FEBF-A346-4182-8A4B-3C0687BD08A9"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BA313E4-48E4-4D0B-8A32-7FC390D12C73"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/PermissionRequester.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1BA313E4-48E4-4D0B-8A32-7FC390D12C73 - 563ea5366d77873b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.LocationPermisionRequester.request() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/PermissionRequester.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "1BA313E4-48E4-4D0B-8A32-7FC390D12C73 - 563ea5366d778696"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.LocationPermisionRequester.request() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/PermissionRequester.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "1BA313E4-48E4-4D0B-8A32-7FC390D12C73 - 563ea5366d7786b7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.LocationPermisionRequester.request() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/PermissionRequester.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B56781D1-B089-4EC9-90A4-FB0C50133CEC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/SuccsessHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "request()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FC7AA7F-7337-4642-AC93-32605BD0E96B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/SuccsessHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "request()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9FC7AA7F-7337-4642-AC93-32605BD0E96B - 30e48ad877f59711"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.RequestActionFromUser.request() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "132">
+               </Location>
+               <Location
+                  uuid = "9FC7AA7F-7337-4642-AC93-32605BD0E96B - 30e48ad877f59711"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.RequestActionFromUser.request() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8DDD52E-99FA-4A83-ACA8-259410308FF9"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/MapViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "fetchLocation()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F3F863CD-AA1B-4356-919C-1AC60FF0E945"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/Permissionhandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "actOnResponse(perfromedAction:onSuccess:onFailer:onNoAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "00D44C5C-8E98-4C8B-B202-2282E3F17A07"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/SuccsessHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "97"
+            endingLineNumber = "97"
+            landmarkName = "handleSomeUserResponseEvent()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D7CC55F-D14B-401F-A2E4-EA1D47A47D81"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/SuccsessHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "handleSomeUserResponseEvent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "6D7CC55F-D14B-401F-A2E4-EA1D47A47D81 - 303b4fdbcea56bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.FailourHandler.handleSomeUserResponseEvent() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "6D7CC55F-D14B-401F-A2E4-EA1D47A47D81 - 303b4fdbcea56bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.FailourHandler.handleSomeUserResponseEvent() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "09332049-63F7-4440-9970-DCFDCBD32FF8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/SuccsessHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "92"
+            endingLineNumber = "92"
+            landmarkName = "handleSomeUserResponseEvent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "09332049-63F7-4440-9970-DCFDCBD32FF8 - 303b4fdbcea56bb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.FailourHandler.handleSomeUserResponseEvent() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "504">
+               </Location>
+               <Location
+                  uuid = "09332049-63F7-4440-9970-DCFDCBD32FF8 - 303b4fdbcea56a54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.FailourHandler.handleSomeUserResponseEvent() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "92"
+                  endingLineNumber = "92"
+                  offsetFromSymbolStart = "88">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EFEADDFA-9D54-47EB-8823-AE3B2FF73951"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/Permissionhandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "actOnResponse(perfromedAction:onSuccess:onFailer:onNoAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7157D1C-7474-4723-8E8D-C6A9AE316662"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/Permissionhandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "actOnResponse(perfromedAction:onSuccess:onFailer:onNoAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6F733066-B673-413E-B435-BA1C55055C47"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/Permissionhandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "actOnResponse(perfromedAction:onSuccess:onFailer:onNoAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D8773B9D-17A0-4DDC-A0AD-5ABE2B30C8A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/Permissionhandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "actOnResponse(perfromedAction:onSuccess:onFailer:onNoAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5376697A-52D9-4096-AA1F-5B53A14A2844"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/Permissionhandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "actOnResponse(perfromedAction:onSuccess:onFailer:onNoAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "329C69BE-BA8A-4198-88E7-6E0DAA9DC137"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/Permissionhandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "42"
+            endingLineNumber = "42"
+            landmarkName = "actOnResponse(perfromedAction:onSuccess:onFailer:onNoAction:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36CEFC51-B4FA-4D17-93FD-9D1DF2AB1C80"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "RideSharer/Permission/SuccsessHandler.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "handleSomeUserResponseEvent()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "36CEFC51-B4FA-4D17-93FD-9D1DF2AB1C80 - 416f6fd98d49cd61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.SuccessTaskHandler.handleSomeUserResponseEvent() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "48">
+               </Location>
+               <Location
+                  uuid = "36CEFC51-B4FA-4D17-93FD-9D1DF2AB1C80 - 416f6fd98d49cd61"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "RideSharer.SuccessTaskHandler.handleSomeUserResponseEvent() -&gt; ()"
+                  moduleName = "RideSharer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ahdiviomendes/Downloads/RideSharer_Map_Start/RideSharer/Permission/SuccsessHandler.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
