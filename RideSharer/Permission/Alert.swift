@@ -8,7 +8,7 @@ import UIKit
 import Foundation
 
 enum AlertMessage: String{
-  case failedLocation = "Kindly provide us access to your location to get you a very good Ride"
+  case failedLocation = "Kindly go to setting > Privacy & Security > Location Services > Search For RiderShare > Enable Location"
 }
 
 protocol AlertAction {

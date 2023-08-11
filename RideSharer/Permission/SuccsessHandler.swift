@@ -89,7 +89,7 @@ struct FailourHandler: HandleEvent {
   
   
   func handleSomeUserResponseEvent() {
-    let alert = FailourAlert(title: "Location Access Failed", message: "", actions: alertActions)
+    let alert = FailourAlert(title: "Location Access Denied", message: "", actions: alertActions)
     guard presentingViewController != nil else {
       
       return

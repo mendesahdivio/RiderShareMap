@@ -42,7 +42,7 @@ final class LocationPermisionRequester: NSObject, PermissionRequester {
     DispatchQueue.global().async {[weak self] in
       let mapView = self?.fetchMapView?.getAnything()
       
-      let actionForAlert = ActionForAlert().prepareAlertAction(Titile: "OK", actionStyle: .default) {
+      let actionForAlert = ActionForAlert().prepareAlertAction(Titile: "Settings", actionStyle: .default) {
         //open settings
         if let settingsUrl = URL(string: UIApplication.openSettingsURLString) {
           UIApplication.shared.open(settingsUrl)
